@@ -1,0 +1,20 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background: #D4D6C8;
+}
+nav{
+background: #E9E9E5;
+}
+
+section{
+  background: #9A9B94;
+}
+
+aside{
+  background: #52524E;
+}
